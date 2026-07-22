@@ -1,4 +1,10 @@
 # 投肯智能 · 技术白皮书（Technical Whitepaper）
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue" />
+  <img alt="By" src="https://img.shields.io/badge/by-TouKenAI-orange" />
+</p>
+
 
 > 重庆投肯智能科技有限公司（TouKenAI）的技术能力白皮书。
 > 讲清楚我们**是谁、能做什么、用什么技术做、怎么做、凭什么可信**。
@@ -52,3 +58,17 @@
 ---
 
 *重庆投肯智能科技有限公司 · 投肯AI小刚*
+
+
+## 投肯智能开源矩阵
+
+> 重庆投肯智能科技有限公司 · 开源项目导航
+
+| 仓库 | 说明 |
+|------|------|
+| [TouKenAI](https://github.com/TouKenAI/TouKenAI) | 门面 / 公司形象展示页（Profile README） |
+| [ssq-analysis](https://github.com/TouKenAI/ssq-analysis) | 双色球标准5步分析 + 优化引擎 |
+| [daletou-analysis](https://github.com/TouKenAI/daletou-analysis) | 大乐透标准5步分析 + 优化引擎 |
+| [philosophy-methodology](https://github.com/TouKenAI/philosophy-methodology) | 哲学方法论体系（4层 + 实验记录） |
+| [ai-behavior-constraints](https://github.com/TouKenAI/ai-behavior-constraints) | AI 行为约束体系（7条硬约束） |
+| **[tech-whitepaper](https://github.com/TouKenAI/tech-whitepaper)** | 投肯智能技术白皮书（FDE / 信创 / AI落地）（本仓库） |
